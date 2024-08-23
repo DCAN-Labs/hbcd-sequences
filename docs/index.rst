@@ -10,13 +10,11 @@ Welcome to HBCD Sequences's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   siemens.md
+   siemens.rst
 
 
 
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
