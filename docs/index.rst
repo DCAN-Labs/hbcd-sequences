@@ -16,5 +16,3 @@ Welcome to HBCD Sequences's documentation!
 
 Indices and tables
 ==================
-
-* :ref:`search`
